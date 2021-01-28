@@ -1,0 +1,157 @@
+body {
+    font-family: "Lucida Grande";
+    margin: 0px 0px 0px 0px;
+}
+.top-wrapper {
+    background-image: url("img/IMG-20200217-WA0079.jpg");
+    background-size:cover;
+    padding:185px 0 100px 0;
+    text-align:center;
+    opacity:0.9;
+    text-decoration: none;
+    margin-top:0px;
+}
+.design {
+    background-image: url("img/dots-group-v.png");
+    padding:60px 60px 100px 60px;
+    background-repeat: no-repeat;
+    position: relative;
+    top:190px;
+    left:50px;
+
+}
+.design2 {
+    background-image: url("img/dots-group-v.png");
+    padding:60px 60px 100px 60px;
+    position:relative;
+    top:30px;
+    background-repeat: no-repeat;
+    float: right;
+
+}
+.top-wrapper h1 {
+    opacity:1.0;
+    position:relative;
+    top:280px;
+    color:aliceblue;
+    letter-spacing:6px;
+    font-size:36px;
+
+}
+.top-wrapper p {
+    position:relative;
+    top:290px;
+    font-size:20px;
+    color:aliceblue;
+    opacity:0.8;
+}
+
+.container {
+    width:1190px;
+    margin:0 auto;
+    height:500px;
+}
+.About {
+    background-image: url("img/newsletter-bg.jpg");
+    padding:300px 10px 50px 300px;
+}
+.project {
+    padding-top: 20px;
+    padding-bottom:200px;
+    margin-top:5px;
+    margin-left:2px;
+    background-image:url("img/featured-events-bg.jpg");
+    background-size: cover;
+    height:1000px;
+    
+}
+.project-title {
+    font-family: "Times New Roman";
+   font-size:30px;
+   padding:30px 20px 40px 20px;
+   margin-left:600px;
+   background-image: url("img/next-events-header-bg.png");
+   background-repeat: no-repeat;
+   align-items: center;
+   color:white
+}
+.project-content img{
+    margin:40px 100px 40px 100px;
+    height:300px;
+    width:30%;
+    float:left;
+    align-self: center;
+  
+}
+.project-content p{
+    float:left;
+    position: relative;
+    top:340px;
+    right:380px;
+    margin-top:20px;
+    color:white;
+    font-size: 20px;
+    opacity:0.8;
+}
+.project-content p a{
+    text-decoration: none;
+    color: white;
+
+}
+.navigation {
+    margin:5px 10px 0px 5px;
+
+    background-color:rgb(192, 170, 149);
+    padding:5px 10px 5px 10px;
+    position:fixed;
+    z-index: 1;
+    width: 100%;
+    opacity:0.9;
+    float:left;
+}
+.nav-logo img{
+    height:60px;
+    width:80px;
+    float:left;
+    
+}
+.nav-list li{
+    float: right;
+   padding:0px 10px 10px 10px;
+   margin-right: 40px;
+   margin-top:2px;
+   opacity:0.9;
+   
+   list-style: none;
+   display:block;
+   
+  
+ 
+}
+.nav-list li:hover{
+    background-color:rgb(89, 89, 165);
+}
+.nav-list li a{
+    text-decoration: none;
+    color:black;
+    font-size:22px;
+}
+.Footer {
+    margin-top:5px;
+    padding:20px 20px 220px 20px;
+    background-image: url("img/featured-events-bg.jpg");
+    
+}
+.Footer-logo {
+    float:left;
+}
+.Footer-list {
+  float:right;
+  color:white;
+  font-size:20px
+}
+.Footer-list li{
+    list-style: none;
+    padding:20px 20px 20px 20px;
+    opacity:0.9
+}
